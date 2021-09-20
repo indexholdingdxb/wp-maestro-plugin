@@ -51,7 +51,7 @@
         </div>
          <div style="width:50%; float:left">
             <code>Speaker: [speakers]</code><br /><br />
-            <code>Speaker Featured and Limit: [speakers featured="x" limit="x"]</code><br /><br />
+            <code>Speaker Featured and Limit: [speakers featured="x" limit="x" order_by="first_name"]</code><br /><br />
             <code>Specific Item Speaker: [speakers item_id="x"]</code><br /><br />
             <code>Item Location Speaker: [speakers item_id="x" session_location_id="x"]</code><br /><br />
             <code>Item Role Base Speaker: [speakers item_id="x" role_id="x"]</code><br /><br />
